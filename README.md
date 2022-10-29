@@ -28,20 +28,23 @@ The manufacturing lots do meet the design specification as their combined varian
 ## T-Tests on Suspension Coils
 
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+We will rely on the p-value for each test to determine if the results are above significance level.  Our null hypothesis is that there is not a difference from the lots from the population mean.  We can set our threshold at 5%.
 
 T test for all manufacturing lots
 <img width="463" alt="One Sample T Test" src="https://user-images.githubusercontent.com/106936638/198849079-5f2efd94-2b18-43c6-9219-0cc396b4bf3b.PNG">
-
+The P value is .06.  Based on this we would reject the null hypothesis.  There is a difference in the lots in PSI from the population mean.
 
 T test for Lot1
 <img width="448" alt="Lot1" src="https://user-images.githubusercontent.com/106936638/198849161-03d82728-69ea-44ee-bf58-9c9bbd492a8b.PNG">
+The P value is 1.  We would reject the null hypothesis.
 
 T test for Lot2
 <img width="454" alt="Lot2" src="https://user-images.githubusercontent.com/106936638/198849165-5462ba64-f1ae-4932-bdc8-103a3204e90c.PNG">
+The P value is .6.  We would reject the null hypothesis.
 
 T test for Lot3
 <img width="449" alt="Lot3" src="https://user-images.githubusercontent.com/106936638/198849168-e274cb41-6ac2-4e1c-afd7-970b8deef108.PNG">
-
+The P value is .04.  We would fail to reject the null hypothesis.
 
 
 ## Study Design: MechaCar vs Competition
