@@ -49,9 +49,16 @@ The P value is .04.  We would fail to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+For a future statistical study I would quantify how MechaCar performs against the competition in safety rating.
+
+1. What metric or metrics are you going to test?
+I could test saftey rating numbers from different car manufacturers including MechaCar.
+
+2. What is the null hypothesis or alternative hypothesis?
+The null hypothesis is that there is not a difference between car safety ratings from different manufacturers.
+
+3. What statistical test would you use to test the hypothesis? And why?
+I could use ANOVA to determine if there is a difference in the means of the various samples.
+
+4. What data is needed to run the statistical test?
+The data needed for the statistical test is a sample of the saftey ratings for the different companies.
